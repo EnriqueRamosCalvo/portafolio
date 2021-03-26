@@ -1,0 +1,15 @@
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.main-nav li {
+    display: inline-block;
+}
+.main-nav a {
+    color: #454545;
+    font-weight: 400;
+    font-size: 1.5rem;
+    padding: 10px 30px;
+    display: inline-block;
+}
